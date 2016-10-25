@@ -1,0 +1,30 @@
+/* styles.css */
+
+#heading
+{
+    background: yellow;
+}
+
+h1
+{
+    text-align: center;
+}
+
+#favorites-list
+{
+    background: YellowGreen;
+}
+
+p {
+    font-size: 20px;
+}
+
+li {
+    padding: 5px;
+    margin: 5px;
+}
+
+#also {
+    background: yellow;
+    color: green;
+}
